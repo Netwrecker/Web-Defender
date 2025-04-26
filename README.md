@@ -1,4 +1,17 @@
 # Web-Defender
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME **: DAMANDEEP KUMAR
+
+**INTERN ID** : CT6MTNGN
+
+**DOMAIN** : CYBER SECURITY
+
+**DURATION** : 6 MONTHS
+
+**MENTOR** : NEELA SANTOSH
+
+# DESCRIPTION
 
 The vulnerability scanner and web interface scripts you've provided are designed to work together in a web application security context. Here's a description of how they work together:
 
